@@ -1,0 +1,9 @@
+
+path: D:/Downloads/BC_MCLN/A_MAIN/dataset2 
+train: images/train 
+val: images/val 
+test: 
+
+
+names:
+  0: bien_so
